@@ -3,7 +3,7 @@
 **`Estudande de Cybersegurança`**
 
 Me chamo Matheus da Silva Diniz, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, com o curso técnico em Administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
-Sou iniciante no mundo da programação e segurança e pretendo continuar me aperfeiçoando e iniciar uma carreira.
+Sou iniciante no mundo da programação e no ambiente de Cybersecurity/Segurança da informação e pretendo continuar me aperfeiçoando e iniciar uma carreira.
 
 
 ### Linguagens e Tecnologias
